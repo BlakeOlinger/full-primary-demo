@@ -8,6 +8,11 @@
 * JPA Auditing for created at and updated at
 * Spring Security
 * Lombok
+* To test required setting up separate application config
+file in src/test/resources/application.properties
+and defining h2 configuration as normal
+* Jetbrains annotations - be sure to use a numbered version
+latest or release throws an error
 
 ##### Documentation
 Available via swagger UI for quick-reference.
