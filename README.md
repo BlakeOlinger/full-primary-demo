@@ -5,6 +5,9 @@
 * PostgreSQL production DB
 * H2 testing DB
 * Swagger, Swagger UI
+* JPA Auditing for created at and updated at
+* Spring Security
+* Lombok
 
 ##### Documentation
 Available via swagger UI for quick-reference.

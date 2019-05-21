@@ -1,4 +1,4 @@
-package com.example.nucmsdemo;
+package com.symbosoft.fulldemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class NucmsdemoApplicationTests {
+public class FulldemoApplicationTests {
 
     @Test
     public void contextLoads() {

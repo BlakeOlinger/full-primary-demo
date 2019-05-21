@@ -1,4 +1,4 @@
-package com.example.nucmsdemo.config;
+package com.symbosoft.fulldemo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
