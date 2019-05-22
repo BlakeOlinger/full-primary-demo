@@ -25,7 +25,7 @@ public class EmployeeRepositoryIntegrationTest {
      * Tests the Employee model in relation to in-memory pre-configured DB only
      * does not validate configuration of production DB
      *
-     * effectively a unit test
+     * effectively a unit test - save for employee repository dependency
      */
     @Test
     public void whenFindByName_thenReturnEmployee() {
